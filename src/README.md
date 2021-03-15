@@ -7,6 +7,8 @@ See also the [panel example](../../examples/panel/).
 
 @showPanel
 
+@PanelConstructor
+
 @Panel
 
 @getPanel
