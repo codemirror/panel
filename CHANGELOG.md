@@ -1,3 +1,15 @@
+## 0.18.1 (2021-03-15)
+
+### Breaking changes
+
+Panels no longer use the `class` property on the spec object (just apply the class yourself when creating the DOM element).
+
+### New features
+
+It is no longer necessary to call `panels()` to use the panel extension (`showPanel` automatically enables it).
+
+`showPanel` now accepts null as input value, which doesn't produce a panel.
+
 ## 0.18.0 (2021-03-03)
 
 ### Breaking changes
