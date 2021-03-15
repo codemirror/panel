@@ -3,10 +3,12 @@ like a search dialog). They will take space from the editor when it
 has a fixed height, and will stay in view even when the editor is
 partially scrolled out of view.
 
-@panels
-
-@Panel
+See also the [panel example](../../examples/panel/).
 
 @showPanel
 
+@Panel
+
 @getPanel
+
+@panels
