@@ -1,3 +1,9 @@
+## 0.18.2 (2021-05-18)
+
+### Bug fixes
+
+Fix a bug where an open panel could break scrolling things into view in an editor that was higher than the window.
+
 ## 0.18.1 (2021-03-15)
 
 ### Breaking changes
