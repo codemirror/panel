@@ -1,3 +1,9 @@
+## 0.19.1 (2021-12-16)
+
+### New features
+
+Panels can now define a `destroy` method that will be called when they are removed from the view.
+
 ## 0.19.0 (2021-08-11)
 
 ### Breaking changes
